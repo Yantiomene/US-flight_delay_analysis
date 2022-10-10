@@ -7,7 +7,7 @@
 The data consists of information regarding 14595137 flights in the US for 2006,and 2007, including:
 Year, Month, Day of Month, Day of week, schedule Departure time, actual departure time, schedule arrival Time, 
 actual arrival time, origin and destination of airline, and other flight informations. The dataset can 
-be found on [Harvard dataverse] (https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7),
+be found on [Harvard dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7),
 with variables description.
 After gathering the Dataset, we reformated the Time feature from a float format to match the hhmm format 
 as stated in the variable description. We also extracted 4 new features `ArrDayTime`, `DepDayTime`, `DepDelay_cat` 
