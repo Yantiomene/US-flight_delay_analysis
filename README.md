@@ -27,9 +27,6 @@ MQ is the carrier with more cancelled flights. December is the month with more c
 ## Key Insights for Presentation
 
 > In this part of investigation, we will try to answer these questions:  
-- What are origins with maximum delay / cancelation?
-- What are destinations with maximum delay /cancelation?
-- Month with maximum and minimum delay/ Cancelation?
-- Airport with most delay /Cancelation?
+- What are airports (origins/destinations) with maximum delay / cancelation?
 - Airline with most delay / cancelation?
 - What are the preferred times for flights to occur? Are there any changes over multiple years?
